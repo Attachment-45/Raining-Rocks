@@ -4,12 +4,11 @@ An arcade game about falling rocks from the bridge.
 # Latest Contributors
 For latest version of the game.
 > This list updated as per version **0.1.UnRel**, which is not yet released.
-- Harsh2332(*44%+*)
+- Harsh2332(*45%+*)
   - Coder
-- Attachment Aditya(*44%+*)
+- Attachment Aditya(*45%+*)
   - Idea Developer
-  - Assets Finder
-  - Music And Effects
+  - Assets Cretor
   - Log Manager
 
 # Ever Contributed Contributors
@@ -19,8 +18,7 @@ This project is contributed by the following people.
   - Coder
 - Attachment Aditya(*44%+*)
   - Idea Developer
-  - Assets Finder
-  - Music And Effects
+  - Assets Creator
   - Log Manager
 - ZEN(*2%-*)
   - Idea Developer
